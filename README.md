@@ -1,3 +1,3 @@
 # forms_app
 
-A new Flutter project.
+Application that uses Bloc and Cubit in its design pattern, as well as an example of a simple form
